@@ -7,6 +7,8 @@ body{
 .flex-container{
     display: flex;
 }
+
+
 .header{
     justify-content: space-between;
     padding: 20px 0;
@@ -30,4 +32,41 @@ body{
     padding: 0 15%;
 }
 
+.heroTextAndImage{
+    justify-content: space-between;
+    padding: 50px 0 100px 0;
+}
+.heroTextSection, .heroImageSection{
+    width: 45%;
+    height: 250px;
+    padding: 20px 0;
+}
+.heroText{
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight:bolder;
+    margin: 0;
+}
+.heroSubtext{
+    color: #E5E7EB;
+    font-size: 18px;
+    font-weight:100;
+    margin: 0;
+    margin-top: 10px;
+}
+.button{
+    all: unset;
+    font-weight:700;
+    margin: 15px 0;
+    background-color: #3882F6;
+    color: #E5E7EB;
+    padding: 5px 25px;
+    border-radius: 5px;
+}
+.heroImageSection{
+    background-color: grey;
+    color: #F9FAF8;
+    justify-content: center;
+    align-items: center;
+}
 /* id */
