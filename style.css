@@ -69,4 +69,35 @@ body{
     justify-content: center;
     align-items: center;
 }
+
+.infoCardSec{
+    text-align:center;
+    padding: 0 15% 50px;
+}
+.infoSecTitle{
+    padding: 20px;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+.infoCardContainer{
+    justify-content: space-between;
+}
+.infoCards{
+    width: 250px;
+}
+.ImgContainer{
+    width: 70%;
+    height: 180px;
+    border: 3px solid #3882F6;
+    border-radius: 10px;
+    margin: auto;
+}
+.descriptions{
+    width: 70%;
+    margin:10px auto;
+    color: grey;
+    font-size: 18px;
+    font-weight:100;
+}
 /* id */
