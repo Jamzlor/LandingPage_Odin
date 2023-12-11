@@ -4,6 +4,30 @@ body{
     font-family: roboto, san-serif;
 }
 /* class */
-
+.flex-container{
+    display: flex;
+}
+.header{
+    justify-content: space-between;
+    padding: 20px 0;
+}
+.headerLogo{
+    font-size: 24px;
+    font-weight:600;
+    color: #F9FAF8;
+}
+.headerLinks{
+    text-decoration: none;
+    font-size: 18px;
+    color: #E5E7EB;
+    margin-left: 16px;
+}
+.headerLinks:hover{
+    color: #3882F6;
+}
+.hero{
+    background-color: #1F2937;
+    padding: 0 15%;
+}
 
 /* id */
