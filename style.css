@@ -149,4 +149,13 @@ body{
     padding: 5px 40px;
 }
 /* footer */
+.footer{
+    background-color: #1F2937;
+    padding: 1% 15%;
+    color: white;
+    text-align: center;
+}
+.crossed{
+    text-decoration: line-through;
+}
 /* id */
