@@ -121,5 +121,32 @@ body{
     font-weight: bolder;
 }
 /* Call to action section */
+.callToAction{
+    padding: 10% 15%;
+}
+.cTAContainer{
+    background-color: #3882F6;
+    border-radius: 10px;
+    display: flex;
+    padding: 3% 10%;
+    justify-content: space-between;
+    align-items:center;
+}
+.cTAMain{
+    margin: 0;
+    font-size: 24px;
+    color: white;
+    font-weight: bolder;
+}
+.cTASub{
+    margin: 0;
+    color: white;
+    font-size: 20px;
+    font-weight:lighter;
+}
+.cTAButton{
+    border: 2px solid white;
+    padding: 5px 40px;
+}
 
 /* id */
