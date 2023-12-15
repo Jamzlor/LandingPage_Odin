@@ -8,7 +8,7 @@ body{
     display: flex;
 }
 
-
+/* header and hero section */
 .header{
     justify-content: space-between;
     padding: 20px 0;
@@ -69,7 +69,7 @@ body{
     justify-content: center;
     align-items: center;
 }
-
+/* info card section */
 .infoCardSec{
     text-align:center;
     padding: 0 15% 50px;
@@ -100,4 +100,6 @@ body{
     font-size: 18px;
     font-weight:100;
 }
+/* Quote section */
+
 /* id */
